@@ -10,6 +10,7 @@ public class PracticeApplication {
 		int x = 100;
 		String name="Vinay";
 		boolean verify=false;
+		int y = 200;
 		SpringApplication.run(PracticeApplication.class, args);
 	}
 
